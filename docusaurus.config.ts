@@ -67,7 +67,7 @@ const config: Config = {
         {to: '/docs/intro', label: 'Docs', position: 'left'},
         {to: '/blog', label: 'Stories', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/FaithTechLabs/workbook',
           label: 'GitHub',
           position: 'right',
         },
