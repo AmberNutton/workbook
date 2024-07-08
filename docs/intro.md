@@ -22,4 +22,4 @@ Each section of this workbook corresponds to a stage in the 4D Cycle. Work throu
 
 As you progress through the workbook, remember that practicing redemptive technology is an ongoing journey. Continue to apply these principles in your work, always seeking to build technology that helps humanity become persons who love God and love others more deeply.
 
-Let's begin our journey towards redemptive technology!
+Let's begin our journey towards redemptive technology design!
